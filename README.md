@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NoGameDev
-- 👀 I’m interested in gamedev, in unity and in c#
-- 🌱 I’m currently learning unity with c#
-- 📫 My YouTube channel: https://www.youtube.com/channel/UCVfnSn56k2vtkXLX_-iaLVg
+- 👀 I’m interested in AI, Graphical design, Photography and GameDev
+- 📫 [My Telegram Channel](https://t.me/kircloud): https://t.me/kircloud
 
 <!---
 NoGameDev/NoGameDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
